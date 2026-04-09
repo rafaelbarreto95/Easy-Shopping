@@ -2,7 +2,11 @@
 <br>
 <br>
 <h2>Esse foi um projeto que aprendi no <a href:"https://www.devclub.com.br/">DevClub.</a></h2>
+<h2> Tecnologias ultilizadas </h2>
 <br>
-<img scr="https://github.com/rafaelbarreto95/Projeto-figma3/blob/main/Assests/figma%20desktop.jpg?raw=true" />
-
-<img scr="https://github.com/rafaelbarreto95/Projeto-figma3/blob/main/Assests/figma%20celular.jpg?raw=true" />
+<P>-HTML</P>
+<P>-CSS</P>
+<p>Nesse projeto alem das tecnologias ultizadas, também foi projetado para ser responsivo para mobile.</p>
+<br>
+<img srcc="![figma celular](https://github.com/user-attachments/assets/3d14f2ac-b1b6-46cf-9211-ef90532b295b)"/>
+<img src="![figma desktop](https://github.com/user-attachments/assets/0f06a9b9-a920-4e3b-bee7-303a846e611b)"/>
